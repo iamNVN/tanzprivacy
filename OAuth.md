@@ -3,6 +3,7 @@ Last Updated: 06-07-2025
 
 This Privacy Policy describes how iamnvn.in ("we", "our", or "us") handles your information when you use our application and sign in using your Google account.
 
+
 1. Information We Collect
 When you sign in using Google OAuth, we collect the following information from your Google profile:
 
