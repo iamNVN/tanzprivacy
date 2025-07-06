@@ -1,60 +1,88 @@
-📜 Privacy Policy
-Last Updated: 06-07-2025
+# Privacy Policy
 
-This Privacy Policy describes how iamnvn.in ("we", "our", or "us") handles your information when you use our application and sign in using your Google account.
+**Effective Date:** July 6, 2025  
+**Last Updated:** July 6, 2025
 
+This Privacy Policy describes how **iamnvn.in** ("we", "our", or "us") handles your information when you use our application and sign in using your Google account.
 
-1. Information We Collect
+---
+
+## 1. Information We Collect
+
 When you sign in using Google OAuth, we collect the following information from your Google profile:
 
-Full name
+- Full name  
+- Email address  
+- Google profile picture (if accessible)
 
-Email address
+We **do not** access your contacts, calendar, Gmail, Drive, or any other Google services unless explicitly stated.
 
-Google profile picture (optional, depending on scopes)
+---
 
-We do not access your contacts, calendar, Gmail, Drive, or any other Google services unless explicitly stated.
+## 2. How We Use Your Information
 
-2. How We Use Your Information
-We only use the collected information to:
+We use the collected information to:
 
-Identify you within the application
+- Identify you within the application  
+- Provide a personalized user experience  
+- Maintain basic analytics and improve the app
 
-Provide a personalized user experience
+We **do not** sell or share your information with third parties.
 
-Maintain basic analytics and usage insights (non-identifiable)
+---
 
-3. How We Store and Protect Your Information
-We take appropriate technical and organizational measures to protect your data. For example:
+## 3. How We Store and Protect Your Information
 
-Your user data is stored securely using [e.g., Supabase, Firebase, etc.].
+We take appropriate security measures to protect your data:
 
-We do not store your Google password.
+- User data is securely stored using modern best practices.  
+- We **do not** store your Google password.  
+- Access is restricted to authorized systems only.
 
-We do not share your data with third parties unless required by law.
+---
 
-4. Third-Party Access
-We do not share your personal data with third parties. Your Google OAuth data is only used within the app and never sold or transferred externally.
+## 4. Third-Party Access
 
-5. Data Retention
-Your data is retained only for as long as you have an account with us. If you delete your account or request removal, your data is permanently deleted from our systems within [X] days.
+We do **not** share your data with third-party services or partners.  
+Your OAuth data is only used within **iamnvn.in** and never transferred externally.
 
-6. User Control and Choices
+---
+
+## 5. Data Retention
+
+We retain your data only as long as necessary to provide our services.  
+If you delete your account or request deletion, your data is permanently erased from our systems within 30 days.
+
+---
+
+## 6. User Control and Choices
+
 You can:
 
-Revoke access via your Google Account https://myaccount.google.com/permissions
+- Revoke access via your Google Account: [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions)  
+- Request data deletion by contacting us at: **contact@iamnvn.in**
 
-Request account or data deletion by contacting us at contact@iamnvn.in
+---
 
-7. Children’s Privacy
-Our application is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+## 7. Children’s Privacy
 
-8. Changes to This Policy
-We may update this Privacy Policy from time to time. When we do, we will notify you by updating the "Last Updated" date.
+This app is not intended for children under 13. We do not knowingly collect personal information from children.
 
-9. Contact Us
-If you have any questions or concerns about this Privacy Policy or your data, contact us at:
+---
 
-Email: contact@iamnvn.in
-Developer Name: Naveen Kumar
+## 8. Changes to This Policy
 
+We may update this Privacy Policy from time to time.  
+When we do, we’ll update the **Last Updated** date at the top of this document.
+
+---
+
+## 9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please reach out:
+
+**Developer:** Naveen Kumar  
+**Email:** [contact@iamnvn.in](mailto:contact@iamnvn.in)  
+**App Name:** iamnvn.in
+
+---
